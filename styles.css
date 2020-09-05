@@ -45,7 +45,6 @@ hr {
   border-color: #dddddd;
   border-width: 7px;
   width: 5%;
-  margin: 100px auto;
 }
 .Hello{
   margin-bottom: 40px ;
@@ -53,9 +52,6 @@ hr {
 .intro{
   width: 29%;
   margin: auto;
-}
-.hr{
-  margin-left: 635px;
 }
 .top-container{
   background-color: #68b0ab;
