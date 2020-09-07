@@ -61,7 +61,7 @@ hr {
 
 .top-container{
   background-color: #68b0ab;
-  padding-top: 50px;
+  padding-top: 100px;
 }
 
 .dogs{
@@ -143,12 +143,12 @@ border-right-width: 20px;
 .bottom-cloud{
   position: absolute;
   left:7%;
-  top:350px;
+  top:400px;
 
 }
 .top-cloud{
   position: relative;
-  left:34%;
+  left:36%;
 }
 
 .piano-img{
